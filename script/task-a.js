@@ -7,4 +7,4 @@ let str = "string";
 alert("variable = " + str);
 
 str = "newString";
-alert("variable = " + str);
+console.log("variable = " + str);
